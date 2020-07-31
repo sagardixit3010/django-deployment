@@ -26,7 +26,7 @@ SECRET_KEY = '_0=@8dx$bi=(r6egdu*c@x&cwe14%8a!f)b*8o2g5_g1)2o0@&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'sagardixit3010.pythonanywhere.com']
 
 
 # Application definition
